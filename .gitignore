@@ -290,4 +290,12 @@ pip-selfcheck.json
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,flask,venv
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,flask,venv 
+plan.txt 
+plan2.txt 
+
+config.py 
+plan3.txt 
+env1* 
+__pycache__ 
+db_connection* 
